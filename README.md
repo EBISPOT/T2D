@@ -3,7 +3,9 @@ Type 2 Diabetes Mellitus - DIAB Ontology
 
 ### About DIAB
 
-The Type2Diabetes (T2D) Ontology (DIAB) was developed as part of the [BioMedBridges](http://www.biomedbridges.eu/) WP7-Phenobridge that aims to bridge the gap between the phenotype information available from mouse model studies and from human clinical data in the field of obesity and diabetes, enabling a new level of interspecies analysis of disease datasets. DIAB ontologically reuses classes from the [Human Phenotype Ontology (HP)](http://human-phenotype-ontology.github.io/), and [Mammalian Phenotype Ontology (MP)](http://www.informatics.jax.org/searches/MP_form.shtml), and creates complimentary classes under DIAB namespace to appropriate represent the T2D disease-phenotype associations with (OBAN)[https://github.com/EBISPOT/OBAN] association model.
+The Type2Diabetes (T2D) Ontology (DIAB) was developed as part of the [BioMedBridges](http://www.biomedbridges.eu/) WP7-Phenobridge that aims to bridge the gap between the phenotype information available from mouse model studies and from human clinical data in the field of obesity and diabetes, enabling a new level of interspecies analysis of disease datasets. DIAB ontologically reuses classes from the [Human Phenotype Ontology (HP)](http://human-phenotype-ontology.github.io/), and [Mammalian Phenotype Ontology (MP)](http://www.informatics.jax.org/searches/MP_form.shtml), and creates complimentary classes under DIAB namespace to appropriate represent the T2D disease-phenotype associations with [OBAN](https://github.com/EBISPOT/OBAN) association model.
+
+# 
 
 
 
