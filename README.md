@@ -7,7 +7,7 @@ The Type2Diabetes (T2D) Ontology (DIAB) was developed as part of the [BioMedBrid
 
 
 
-![](https://github.com/EBISPOT/OBAN/blob/master/diagrams/oban%20db%20source%20model.png)
+![](https://github.com/EBISPOT/T2D/blob/master/img/overview_DIAB.png)
 
 
 
