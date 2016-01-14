@@ -25,11 +25,11 @@ The Type2Diabetes (T2D) Ontology (DIAB) was developed as part of the [BioMedBrid
 
 
 ### Accessibility
-* (DIAB on Github)[https://github.com/EBISPOT/T2D/]
-* (DIAB on BioPortal)[https://bioportal.bioontology.org/ontologies/DIAB]
+* [DIAB on Github](https://github.com/EBISPOT/T2D/)
+* [DIAB on BioPortal](https://bioportal.bioontology.org/ontologies/DIAB)
 
 
 
 ### Contact us
-Submit your questions via [DIAB issue tracker](https://github.com/EBISPOT/T2D/issues)
+Submit your questions via [T2D issue tracker](https://github.com/EBISPOT/T2D/issues)
 
