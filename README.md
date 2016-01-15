@@ -17,6 +17,7 @@ The Type2Diabetes (T2D) Ontology (DIAB) was developed as part of the [BioMedBrid
 ### DIAB Construction
 
 DIAB describes T2D in relations to its disease stages and phenotypes, retrieving the candidate class relations from published literature. Text mining in this process is accomplished by Europe PMC [*Whatizit* pipeline](http://www.ebi.ac.uk/webservices/whatizit/info.jsf), aided by a phenotype dictionary composed of terms from the [Human Phenotype Ontology (HP)](http://human-phenotype-ontology.github.io/), and [Mammalian Phenotype Ontology (MP)](http://www.informatics.jax.org/searches/MP_form.shtml).
+![](https://github.com/EBISPOT/T2D/blob/master/img/process_DIAB.png)
 
 
 
